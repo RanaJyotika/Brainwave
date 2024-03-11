@@ -14,7 +14,7 @@
   <h3 align="center">Modern UI/UX website</h3>
 
    <div align="center">
-     Visit this project live on <a href="https://brainwave-react.vercel.app/" target="_blank"></a>
+     Visit this project live on <a href="https://brainwave-react.vercel.app/" target="_blank">brainwave-react.vercel.app</a>
     </div>
 </div>
 
